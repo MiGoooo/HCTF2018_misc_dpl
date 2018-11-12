@@ -1,2 +1,4 @@
 # HCTF2018_misc_dpl
 writeup of difficult_programming_language
+这是我第一次参与CTF的出题，出的不是很好，看到有些dalao说过于脑洞和套路化了，在这里先道个歉orz
+这题本意是
